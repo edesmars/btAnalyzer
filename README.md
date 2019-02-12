@@ -4,9 +4,9 @@ This repository is a set of analyzer for backtrader that helps review a strategy
 
 __This repository is under heay development and is not production ready__
 
-##Analyzer available
+## Analyzer available
 
-###ForexTrades
+### ForexTrades
 This is a simple Analyzer that keeps track of all trades closed. It can be used for live or backtesting.
 It allows to keep track of:
 
@@ -17,7 +17,7 @@ It allows to keep track of:
 * Maximum drawback in pips
 * Maximum profit in pips
 
-###ForexStats
+### ForexStats
 This Analyzer is using the output of ``ForexTrades`` Analyzer to give details about the strategy including:
 It returns several analysis for a strategy in 4 different areas:
 
